@@ -1,1 +1,1 @@
-this is file2 content
+this is file2 content modified from feature 
